@@ -1,0 +1,39 @@
+.navbar {
+  transition: background-color 0.3s ease;
+}
+
+.sticky {
+  background-color: #ffffff; /* Adjust the color as needed */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+  height: 40px; /* Adjust the size as needed */
+}
+
+.nav-label {
+  margin-bottom: 2px;
+  margin-left: 5px; /* Adjust the spacing as needed */
+}
+
+.nav-icon {
+  margin-bottom: 2px;
+}
+
+.fork-btn {
+  margin-left: 15px;
+}
+
+.fork-btn-inner {
+  display: flex;
+  align-items: center;
+}
+
+.fork-icon {
+  font-size: 1.2em;
+  margin-right: 5px;
+}
+
+.star-icon {
+  font-size: 1.1em;
+}
